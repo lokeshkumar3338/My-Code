@@ -1,0 +1,33 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .hero-section {
+    background-image: url('https://cdn.pixabay.com/photo/2023/02/01/21/40/pink-7761356_1280.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content {
+    text-align: center;
+    color:black
+  }
+  
+  .content h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  
+  
+  .content button:hover {
+    background-color: rgba(204, 200, 200, 0.8);
+  }
+  

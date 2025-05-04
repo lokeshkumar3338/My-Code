@@ -1,0 +1,36 @@
+.main{
+    height: 80vh;
+    width: 80vw;
+    padding: 10px;
+}
+.top, .down{
+    background-color: gray;
+    height: 11vh;
+    width: 100vw;
+    margin: 5px;
+}
+
+.splits{
+    height: 80vh;
+    width: 100vw;
+}
+.row1, .row2{
+     height: 39vh;
+    width: 100vw;
+    padding: 5px;
+    display: flex;
+
+}
+.box1, .box11, .box12, .box13{
+    background-color: gray;
+    height: 38vh;
+    width: 25vw;
+    margin: 5px;
+}
+
+.box2, .box21, .box22, .box23{
+    background-color: gray;
+    height: 38vh;
+    width: 25vw;
+    margin: 5px;
+}
